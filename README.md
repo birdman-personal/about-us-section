@@ -7,6 +7,6 @@ About us Section
 
 Responsive About us Section Using HTML & CSS
 
-![](/assets/screen_1.gif)
-![](/assets/screen_2.gif)
-![](/assets/screen_3.gif)
+![](/assets/screen_1.png)
+![](/assets/screen_2.png)
+![](/assets/screen_3.png)
